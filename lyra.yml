@@ -1,0 +1,11 @@
+projects:
+  - languages:
+      - sv
+      - en
+      - ar
+    messages:
+      format: ts
+      path: src
+    path: .
+    translations:
+      path: config/locales
